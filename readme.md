@@ -21,6 +21,7 @@ The project's data flow architecture is as follows:
 - Basic understanding of AWS services (S3, Glue, Athena, QuickSight)
 - Knowledge of SQL and ETL processes
 - The dataset is available at [Spotify Dataset 2023](https://www.kaggle.com/datasets/tonygordonjr/spotify-dataset-2023).
+- Processed data is available locally in `spotify_dataset_2023-PROCESSED` folder.
 
 ## Setup and Configuration
 
