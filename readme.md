@@ -71,3 +71,9 @@ Detail the steps for running ETL jobs, querying data with Athena, and creating v
 ## Support and Contribution
 
 For support and contributions, please open an issue or pull request in the project repository.
+
+## Practical Steps
+
+Now it is time to walk through the practical steps to set up and configure the data warehousing solution using AWS services.
+
+[Practical Steps](./practical-steps.md)
